@@ -69,3 +69,8 @@ gem "refile-mini_magick"
 
 # ページング機能の実装
 gem 'kaminari','~> 1.2.1'
+
+# bootstrapの導入
+gem 'bootstrap', '~> 4.5'
+gem 'jquery-rails'
+gem 'font-awesome-sass', '~> 5.13'
